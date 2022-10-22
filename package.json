@@ -1,0 +1,19 @@
+{
+  "name": "fyyur-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamboHassan/fyyur-app.git"
+  },
+  "author": "Hassan Sambo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamboHassan/fyyur-app/issues"
+  },
+  "homepage": "https://github.com/SamboHassan/fyyur-app#readme"
+}
