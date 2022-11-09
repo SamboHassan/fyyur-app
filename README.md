@@ -202,6 +202,8 @@ python3 app.py
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000)
 
 7. **Screenshots:**
-
+#### Homepage:
 ![alt text](https://github.com/SamboHassan/fyyur-app/blob/main/screenshots/screenshot1.jpg)
+
+#### Shows listing page:
 ![alt text](https://github.com/SamboHassan/fyyur-app/blob/main/screenshots/screenshot2.png)
